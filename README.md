@@ -4,7 +4,7 @@ Hi 👋 My name is Maximiliano Vilchez
 Full Stack Developer
 --------------------
 
-I'm a former med-student who rediscovered his passion for technology and decided to set out on an adventure with the focus on becoming a developer looking building and enhancing interesting projects.
+I'm a former med-student who rediscovered his passion for technology and decided to set out on an adventure with the focus on becoming a developer looking forward to building and enhancing interesting projects.
 
 *   🌍  I'm based in Buenos Aires, Argentina
 *   ✉️  You can contact me at [maximiliano.vilchez@outlook.com](mailto:maximiliano.vilchez@outlook.com)
